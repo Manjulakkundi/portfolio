@@ -1,4 +1,4 @@
-# 💻 First-Year Web Development Course Project: Personal Portfolio Demo
+# 💻 Web Development Course Project: Personal Portfolio Demo
 
 This project was developed as a key deliverable for my **First-Year Web Development Course** at RV University. It serves as a comprehensive demonstration of foundational skills in front-end development, focusing on responsive design and structured code.
 
@@ -28,6 +28,28 @@ This project successfully implemented core concepts taught in my B.Tech Computer
 
 ---
 
-## 📂 Project Structure
+---
 
-The repository is organized logically, demonstrating a standard structure for a front-end project:
+## ⚙️ How to View the Project Locally
+
+Want to see the code in action? Follow these simple steps:
+
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/Manjulakkundi/your-repo-name.git](https://github.com/Manjulakkundi/your-repo-name.git)
+    ```
+2.  **Navigate to the project directory:**
+    ```bash
+    cd portfolio/portfolio-main
+    ```
+3.  **Open in Browser:**
+    Simply open the `index.html` file in any web browser (`File > Open File...`) to view the functional portfolio demo.
+
+---
+
+## 🎓 Student Details
+
+* **Name:** Manjunath Lakkundi
+* **Academic Program:** B.Tech Computer Science Engineering, 1st Year
+* **University:** RV University
+* **GitHub:** [@Manjulakkundi](https://github.com/Manjulakkundi)
